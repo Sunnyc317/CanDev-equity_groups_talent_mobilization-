@@ -11,7 +11,7 @@ We found that there's noticable percentage of people with disability and gender-
 | Yiqing(Sunny) Cao | Analyzed & cleaned data. Visualized Survveys about Harassment and  Mobility and Retention |data_challenge_sunny_q55_56_24_26_27.ipynb|
 
 ## Final Worksheet
-Run final_submission.ipynb to see all visualizations
+Run **final_submission.ipynb** to see all visualizations
 
 ## Group Works
 Data Cleaning - set3_sunny.ipynb
