@@ -4,6 +4,8 @@ Our analysis is based on the [2020 Public Service Employee Survey open dataset](
 # Conclusion
 We found that there's noticable percentage of people with disability and gender-diversed get most harassment and discrimination. 
 
+We noticed that Gender diversity performs an under-average satisfaction in the Diversity and Engagement. 
+
 
 |Teammates          | Contribution |     Files     |
 |-------------------|--------------|---------------|
