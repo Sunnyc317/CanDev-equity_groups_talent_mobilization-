@@ -7,6 +7,8 @@ Run **final_submission.ipynb** to see all visualizations and presentation
 # Conclusion
 - We found that there's noticable percentage of people with disability and gender-diversed get most harassment and discrimination. 
 - We noticed that Gender diversity performs an under-average satisfaction in the Diversity and Engagement. 
+- we found that visible minorites often feel discriminated and feel distanced from their coworkers
+
 
 ## Group Works
 - Data Cleaning - set3_sunny.ipynb
